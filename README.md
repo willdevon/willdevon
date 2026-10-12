@@ -27,5 +27,6 @@ An STM32-based clock speaker featuring AUX audio, RTC, display, and alarm.
 
 ### 🤝 Connect With Me
 
+- Gmail: nguyenhohaidang63@gmail.com
 - GitHub: [@willdevon](https://github.com/willdevon)
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nguyen-ho-hai-dang-0972b3379/)
