@@ -1,4 +1,4 @@
-# Hi, I'm willdevon 👋
+# Hi, I'm willdevon  (Nguyen HO Hai Dang) 👋
 
 ### Electronics & Telecommunications Engineering Student | Embedded Hardware
 
