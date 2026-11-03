@@ -1,6 +1,6 @@
 # Hi, I'm willdevon  (Nguyen Ho Hai Dang) 👋
 
-### Electronics & Telecommunications Engineering Student | Embedded Hardware
+### Electronics & Telecommunications Engineering Student | Embedded Hardware & Software
 
 I'm an Electronics and Telecommunications Engineering student at Ho Chi Minh City University of Technology and Engineering (HCMUTE), interested in embedded firmware development, microcontrollers, and hardware design.
 
