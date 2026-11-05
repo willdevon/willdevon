@@ -14,6 +14,8 @@ I'm an Electronics and Telecommunications Engineering student at Ho Chi Minh Cit
 - **Programming:** C, Embedded C
 - **Microcontrollers:** STM32
 - **Communication Protocols:**  UART, I2C, SPI, CAN
+- **Peripherals:** GPIO, ADC, Timer/PWM, Interrupts.
+-** Version Control:** Git, GitHub.
 - **Hardware Design:** Altium Designer, schematic design, PCB layout(2-4 layers), EMC/EMI Design Considerations, Basic Electronics(BJT, Mosfet)
 - **Tools:** STM32CubeIDE, Altium, Proteus, PCB Toolkit 
 
