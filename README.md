@@ -9,7 +9,6 @@ I'm an Electronics and Telecommunications Engineering student at Ho Chi Minh Cit
 - 🌱 Learning Embedded C and STM32 peripherals.
 - 🔧 Interested in firmware development, PCB design, and hardware debugging.
 - 🎯 Seeking Embedded Firmware & Hardware Internship opportunities.
-
 ### 🛠️ Technical Skills
 - **Programming:** C, Embedded C
 - **Microcontrollers:** STM32
