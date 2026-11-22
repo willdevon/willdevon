@@ -11,7 +11,7 @@ I'm an Electronics and Telecommunications Engineering student at Ho Chi Minh Cit
 -  Seeking Embedded Firmware & Hardware Internship opportunities.
 ###  Technical Skills
 - **Programming:** C, Embedded C
-- **Microcontrollers:** STM32
+- **Microcontrollers:** STM32, Ardunio
 - **Communication Protocols:**  UART, I2C, SPI, CAN
 - **Peripherals:** GPIO, ADC, Timer/PWM, Interrupts.
 -** Version Control:** Git, GitHub.
